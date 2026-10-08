@@ -14,8 +14,14 @@
 
 This project, part of Software Development and Project Management class's team project, explores sentiment-analysis models for customer complaint monitoring. 
 
-The sourcecode of the work is available in `Milestone_1_Customer_Complaint_Monitoring.ipynb`.
+The full final report, source code, configuration and comments are in
+[Customer_Complaint_Monitoring_Final.ipynb](final/Customer_Complaint_Monitoring_Final.ipynb).
+This is the notebook to review for the final submission. It includes the earlier work and does not require running the Milestone 1 notebook first.
 
+- `final/`: the complete final notebook.
+- `milestone_1/`: the original submitted notebook, kept for reference.
+- `slides/`: the separate folder for final presentation slides.
+  
 ## Intended Users and Market
 
 - **Target customers:** Organizations that receive many social-media comments, such as restaurants, airlines, delivery companies, online retailers, banks, and telecommunications companies.
